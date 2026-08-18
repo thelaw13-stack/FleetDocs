@@ -37,15 +37,15 @@
 - 1835cc (Owner Record — Pending Verification)
 - EMPI single center-mount carburetor
 - Bosch ignition coil
+- Deep oil sump
+- Remote spin-on oil filter
+- Braided AN-style oil plumbing (routing unresolved — recorded as general oil-system plumbing)
 
 #### FUEL
 - Custom 10-gallon aluminum fuel cell in front luggage compartment
 
-#### LUBRICATION
-- Deep oil sump
-- Remote spin-on oil filter
+#### COOLING
 - Remote aluminum oil cooler with electric fan
-- Braided AN-style oil plumbing
 
 #### EXHAUST
 - EMPI merged header
